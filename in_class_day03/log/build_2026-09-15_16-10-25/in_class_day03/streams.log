@@ -1,0 +1,24 @@
+[1.235s] Invoking command in '/home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03/build --no-deps symlink_data
+[1.586s] running develop
+[1.738s] running egg_info
+[1.739s] creating in_class_day03.egg-info
+[1.753s] writing in_class_day03.egg-info/PKG-INFO
+[1.754s] writing dependency_links to in_class_day03.egg-info/dependency_links.txt
+[1.754s] writing entry points to in_class_day03.egg-info/entry_points.txt
+[1.754s] writing requirements to in_class_day03.egg-info/requires.txt
+[1.754s] writing top-level names to in_class_day03.egg-info/top_level.txt
+[1.754s] writing manifest file 'in_class_day03.egg-info/SOURCES.txt'
+[1.782s] reading manifest file 'in_class_day03.egg-info/SOURCES.txt'
+[1.783s] writing manifest file 'in_class_day03.egg-info/SOURCES.txt'
+[1.798s] running build_ext
+[1.798s] Creating /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/lib/python3.12/site-packages/in-class-day03.egg-link (link to .)
+[1.799s] Installing emergency_stop script to /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/lib/in_class_day03
+[1.799s] 
+[1.800s] Installed /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03
+[1.800s] running symlink_data
+[1.800s] creating /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/share/ament_index
+[1.800s] creating /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/share/ament_index/resource_index
+[1.800s] creating /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/share/ament_index/resource_index/packages
+[1.801s] symbolically linking /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03/resource/in_class_day03 -> /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/share/ament_index/resource_index/packages
+[1.801s] symbolically linking /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03/package.xml -> /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/share/in_class_day03
+[1.833s] Invoked command in '/home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/install/in_class_day03/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/akprime07/ros2_ws/src/class_activities_and_resources/in_class_day03/build/in_class_day03/build --no-deps symlink_data
